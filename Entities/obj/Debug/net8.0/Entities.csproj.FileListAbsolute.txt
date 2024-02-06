@@ -1,0 +1,11 @@
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Gaming\Desktop\kamp\MaskeTakip\Entities\obj\Debug\net8.0\ref\Entities.dll
